@@ -1,0 +1,23 @@
+{
+  "name": "com.wtfgames.hephaestus.build",
+  "version": "0.0.1",
+  "displayName": "Hephaestus Build",
+  "description": "Hephaestus Build is a part of the Hephaestus Core framework that helps perform builds for the different platforms.",
+  "unity": "2019.2",
+  "keywords": [
+    "unity",
+    "mobile",
+    "framework",
+    "builds",
+    "ci/cd"
+  ],
+  "author": {
+    "name": "WTFGames",
+    "email": "serhii.chechui@gmail.com",
+    "url": "https://github.com/serhii-chechui"
+  },
+  "dependencies": {
+    "com.wtfgames.hephaestus.core": ">=0.0.1"
+  }
+}       
+        
